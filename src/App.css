@@ -1,0 +1,45 @@
+
+
+.div {
+  border: solid 2px red;
+}
+
+
+
+.sidebar {
+  display: grid;
+
+}
+
+.reviews {
+  display: grid; 
+}
+
+
+
+.SentimentAnalysis {
+  display: grid;
+}
+
+
+
+.WebsiteVisitors{
+  display: grid;
+}
+
+
+
+.AverageRating{
+  display: grid;
+}
+
+
+
+h4 {
+  align-self: center;
+}
+
+h1 {
+  text-align: center;
+
+}
