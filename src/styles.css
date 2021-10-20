@@ -1,0 +1,92 @@
+.body{
+  background-color: lightgrey;
+}
+  
+  
+  
+  .sidebar {
+  
+    border: solid 2p black;
+    height: 100%;
+    width: 20%;
+    background-color: rgb(227, 230, 230);
+    
+  
+  }
+  
+  .Reviews {
+    height: 40%;
+    width: 20%;
+    font-weight: 800;
+    border: solid 2p black;
+    position:absolute;
+    background-color: rgb(227, 230, 230);
+    top:0;
+    left: 19rem;
+     
+  }
+  
+  
+  
+  .SentimentAnalysis {
+    height: 40%;
+    width: 20%;
+    font-weight: 800;
+    background-color: ;
+    position:absolute;
+    background-color: rgb(227, 230, 230);
+    right: 0;
+    top:0;
+    border: solid 2p black;
+  }
+  
+  
+  
+  .WebsiteVisitors{
+    height: 45%;
+    width: 75%;
+    font-weight: 800;
+    right: 0;
+    top: 20rem;
+    position:absolute;
+    border: solid 2p black;
+    background-color: rgb(227, 230, 230);
+  }
+  
+  
+  
+  .AverageRating {
+    height: 40%;
+    width: 20%;
+    font-weight: 800;
+    border: solid 2p black;
+    background-color: rgb(227, 230, 230);
+    right: 20;
+    position:absolute;
+    top:0;
+    left: 34rem;
+ 
+  }
+  
+  
+  
+  h4 {
+    text-align: center;
+  }
+  
+  h1 {
+    text-align: center;
+  
+  }
+
+  .container{
+    background-color: rgb(101, 101, 101);
+    height: 40rem;
+    width: 60rem;
+    position: relative;
+  }
+
+
+  
+
+  

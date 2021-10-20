@@ -1,5 +1,6 @@
-import logo from './logo.svg';
+
 import './App.css';
+import './styles.css';
 import Reviews from "./Components/Reviews"
 import Sidebar from "./Components/Sidebar"
 import WebsiteVisitors from "./Components/WebsiteVisitors"
@@ -10,7 +11,7 @@ import AverageRating from "./Components/AverageRating"
 
 function App() {
   return (
-    <div>
+    <div className="container">
       <Sidebar/>
       <Reviews/>
       <WebsiteVisitors/>

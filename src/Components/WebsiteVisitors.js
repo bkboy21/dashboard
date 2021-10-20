@@ -1,7 +1,7 @@
 function WebsiteVisitors(props){
     return (
-      <div className="WedsiteVisitors">
-          <h1>Wedsite Visitors</h1>
+      <div class="WebsiteVisitors">
+          <h5>Wedsite Visitors</h5>
         <h4>821</h4>
       </div>
     );

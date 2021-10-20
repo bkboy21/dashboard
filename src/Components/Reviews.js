@@ -1,10 +1,10 @@
-function Review(props){
+function Reviews(props){
     return (
-      <div className="reviews">
-          <h1>Review</h1>
+      <div class="Reviews">
+          <h5>Review</h5>
         <h4>1,281 </h4>
       </div>
     );
   }
   
-  export default Review;
+  export default Reviews;
